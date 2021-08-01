@@ -71,6 +71,9 @@ if(ModalData !== null) {
       }}
       />
     </View>
+    <View>
+      
+    </View>
 
     <FlatList
     data= {placeList}
